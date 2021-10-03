@@ -14,9 +14,6 @@ import {MatTableModule} from "@angular/material/table";
   ],
   imports: [
     CommonModule,
-    MatSliderModule,
-    MatDialogModule,
-    MatTableModule,
     RouterModule.forChild([
       {
         path: '',

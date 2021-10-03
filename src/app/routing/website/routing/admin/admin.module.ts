@@ -9,7 +9,6 @@ import {MatDialogModule} from "@angular/material/dialog";
   declarations: [],
   imports: [
     CommonModule,
-    MatDialogModule,
     RouterModule.forChild([
       {
         path: 'dashboard',
